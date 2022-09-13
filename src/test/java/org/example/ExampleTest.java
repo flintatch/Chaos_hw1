@@ -12,6 +12,6 @@ public class ExampleTest {
 
     @Test
     void exampleTest1() {
-        Assertions.assertTrue (77 >= 76);
+        Assertions.assertTrue (77 >= 75);
     }
 }
