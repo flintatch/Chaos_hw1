@@ -7,11 +7,11 @@ public class ExampleTest {
 
     @Test
     void exampleTest0() {
-        Assertions.assertTrue (new Random(). nextint() > 71);
+        Assertions.assertTrue (new random(). nextint() > 71);
     }
 
     @Test
     void exampleTest1() {
-        Assertions.assertTrue (new Random(). nextint() > 76);
+        Assertions.assertTrue (new random(). nextint() > 76);
     }
 }
